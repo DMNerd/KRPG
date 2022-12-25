@@ -112,7 +112,7 @@
 
 [Dagger]
 	#List of dagger items for the  dagger weapon class mapping e.g. ["minecraft:iron_sword", "minecraft:diamond_sword", ...]
-	daggerItems = ["magistuarmory:wood_stylet","magistuarmory:stone_stylet","magistuarmory:iron_stylet","magistuarmory:gold_stylet","magistuarmory:diamond_stylet","magistuarmory:netherite_stylet","magistuarmory:copper_stylet","magistuarmory:steel_stylet","magistuarmory:silver_stylet","magistuarmory:tin_stylet","magistuarmory:bronze_stylet"]
+	daggerItems = ["magistuarmory:wood_stylet", "magistuarmory:stone_stylet", "magistuarmory:iron_stylet", "magistuarmory:gold_stylet", "magistuarmory:diamond_stylet", "magistuarmory:netherite_stylet", "magistuarmory:copper_stylet", "magistuarmory:steel_stylet", "magistuarmory:silver_stylet", "magistuarmory:tin_stylet", "magistuarmory:bronze_stylet"]
 	#Increases the dealt damage with the dagger by the amount of % (0 = disabled).
 	#Range: 0 ~ 1000
 	daggerItemDamageIncrease = 50
@@ -202,7 +202,7 @@
 
 [Maces]
 	#List of mace items for the  mace weapon class mapping e.g. ["minecraft:iron_sword", "minecraft:diamond_sword", ...]
-	maceItems = ["magistuarmory:wood_morgenstern","magistuarmory:stone_morgenstern","magistuarmory:iron_morgenstern","magistuarmory:gold_morgenstern","magistuarmory:diamond_morgenstern","magistuarmory:netherite_morgenstern","magistuarmory:copper_morgenstern","magistuarmory:steel_morgenstern","magistuarmory:silver_morgenstern","magistuarmory:tin_morgenstern","magistuarmory:bronze_morgenstern",]
+	maceItems = ["magistuarmory:wood_morgenstern", "magistuarmory:stone_morgenstern", "magistuarmory:iron_morgenstern", "magistuarmory:gold_morgenstern", "magistuarmory:diamond_morgenstern", "magistuarmory:netherite_morgenstern", "magistuarmory:copper_morgenstern", "magistuarmory:steel_morgenstern", "magistuarmory:silver_morgenstern", "magistuarmory:tin_morgenstern", "magistuarmory:bronze_morgenstern"]
 	#Increases the dealt damage with the mace by the amount of % (0 = disabled).
 	#Range: 0 ~ 1000
 	maceItemDamageIncrease = 50
@@ -232,7 +232,7 @@
 
 [Polearms]
 	#List of polearm items for the  polearm weapon class mapping e.g. ["minecraft:iron_sword", "minecraft:diamond_sword", ...]
-	polearmItems = ["magistuarmory:wood_guisarme","magistuarmory:stone_guisarme","magistuarmory:iron_guisarme","magistuarmory:gold_guisarme","magistuarmory:diamond_guisarme","magistuarmory:netherite_guisarme","magistuarmory:copper_guisarme","magistuarmory:steel_guisarme","magistuarmory:silver_guisarme","magistuarmory:tin_guisarme","magistuarmory:bronze_guisarme","magistuarmory:wood_lochaberaxe","magistuarmory:stone_lochaberaxe","magistuarmory:iron_lochaberaxe","magistuarmory:gold_lochaberaxe","magistuarmory:diamond_lochaberaxe","magistuarmory:netherite_lochaberaxe","magistuarmory:copper_lochaberaxe","magistuarmory:steel_lochaberaxe","magistuarmory:silver_lochaberaxe","magistuarmory:tin_lochaberaxe","magistuarmory:bronze_lochaberaxe","magistuarmory:wood_concavehalberd","magistuarmory:stone_concavehalberd","magistuarmory:iron_concavehalberd","magistuarmory:gold_concavehalberd","magistuarmory:diamond_concavehalberd","magistuarmory:netherite_concavehalberd","magistuarmory:copper_concavehalberd","magistuarmory:steel_concavehalberd","magistuarmory:silver_concavehalberd","magistuarmory:tin_concavehalberd","magistuarmory:bronze_concavehalberd"]
+	polearmItems = ["magistuarmory:wood_guisarme", "magistuarmory:stone_guisarme", "magistuarmory:iron_guisarme", "magistuarmory:gold_guisarme", "magistuarmory:diamond_guisarme", "magistuarmory:netherite_guisarme", "magistuarmory:copper_guisarme", "magistuarmory:steel_guisarme", "magistuarmory:silver_guisarme", "magistuarmory:tin_guisarme", "magistuarmory:bronze_guisarme", "magistuarmory:wood_lochaberaxe", "magistuarmory:stone_lochaberaxe", "magistuarmory:iron_lochaberaxe", "magistuarmory:gold_lochaberaxe", "magistuarmory:diamond_lochaberaxe", "magistuarmory:netherite_lochaberaxe", "magistuarmory:copper_lochaberaxe", "magistuarmory:steel_lochaberaxe", "magistuarmory:silver_lochaberaxe", "magistuarmory:tin_lochaberaxe", "magistuarmory:bronze_lochaberaxe", "magistuarmory:wood_concavehalberd", "magistuarmory:stone_concavehalberd", "magistuarmory:iron_concavehalberd", "magistuarmory:gold_concavehalberd", "magistuarmory:diamond_concavehalberd", "magistuarmory:netherite_concavehalberd", "magistuarmory:copper_concavehalberd", "magistuarmory:steel_concavehalberd", "magistuarmory:silver_concavehalberd", "magistuarmory:tin_concavehalberd", "magistuarmory:bronze_concavehalberd"]
 	#Increases the dealt damage with the polearm by the amount of % (0 = disabled).
 	#Range: 0 ~ 1000
 	polearmItemDamageIncrease = 50
