@@ -62,7 +62,7 @@
 
 [Axes]
 	#List of axe items for the  axe weapon class mapping e.g. ["minecraft:iron_sword", "minecraft:diamond_sword", ...]
-	axeItems = []
+	axeItems = ["barrows_brothers_mod:dharoks_greataxe", "barrows_brothers_mod:dharoks_greataxe_damned", "simplyswords:iron_greataxe", "simplyswords:gold_greataxe", "simplyswords:diamond_greataxe", "simplyswords:netherite_greataxe", "simplyswords:runic_greataxe"]
 	#Increases the dealt damage with the axe by the amount of % (0 = disabled).
 	#Range: 0 ~ 1000
 	axeItemDamageIncrease = 75
@@ -162,7 +162,7 @@
 
 ["Hand to Hand"]
 	#List of hand to hand items for the  hand to hand weapon class mapping e.g. ["minecraft:iron_sword", "minecraft:diamond_sword", ...]
-	handToHandItems = []
+	handToHandItems = ["simple_weapons:stone_fist", "simple_weapons:iron_fist", "simple_weapons:diamond_fist", "simple_weapons:netherite_fist", "simple_weapons:pendorite_fist", "simple_weapons:electrum_fist"]
 	#Increases the dealt damage with the hand to hand by the amount of % (0 = disabled).
 	#Range: 0 ~ 1000
 	handToHandItemDamageIncrease = 50
