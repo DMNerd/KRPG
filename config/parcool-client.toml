@@ -25,7 +25,7 @@
 	#hide stamina HUD when Stamina is infinite
 	hideS_HUD = false
 	#use Light Stamina HUD
-	useLightHUD = false
+	useLightHUD = true
 	#horizontal alignment
 	#Allowed Values: Left, Right
 	align_H_S_HUD = "Right"
