@@ -3,7 +3,7 @@
   "hud": {
     "distance": 60,
     "x": 4.0,
-    "y": 7.0,
+    "y": 15.0,
     "scale": 1.0,
     "hideDelay": 20,
     "anchorPoint": "TOP_LEFT",
@@ -26,7 +26,7 @@
     "onlyWhenHurt": false
   },
   "particle": {
-    "show": true,
+    "show": false,
     "damageColor": "#ff0000",
     "healColor": "#00ff00",
     "distance": 60
