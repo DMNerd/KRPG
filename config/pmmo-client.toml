@@ -7,11 +7,11 @@
 		#how far right from the top left corner the skill list should be
 		"Skill List Xoffset" = 0
 		#how far down from the top left corner the skill list should be
-		"Skill List Yoffset" = 180
+		"Skill List Yoffset" = 170
 		#Should the skill list be displayed
 		"Display Skill List" = true
 		#how far right from the bottom left corner the vein guage sholud be
-		"Vein Gauge Xoffset" = 4
+		"Vein Gauge Xoffset" = 384
 		#how far up from the bottm left corner the vein guage should be
 		"Vein Gauge Yoffset" = 15
 		#Should the vein charge data be displayed
@@ -19,7 +19,7 @@
 		#how far offset from center the gain list should be
 		"Gain List Xoffset" = 384
 		#how far down from the top left corner the gain list should be
-		"Gain List Yoffset" = 170
+		"Gain List Yoffset" =170
 		#Should the Gain list be displayed
 		"Display Gain List" = true
 		#what color should the background be for the section header lines in the glossary

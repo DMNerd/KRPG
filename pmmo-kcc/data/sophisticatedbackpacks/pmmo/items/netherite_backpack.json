@@ -1,0 +1,17 @@
+{
+    "xp_values":{
+        "CRAFT": {
+            "crafting": 4000
+        }
+    },
+    "requirements":{
+        "WEAR": {
+            "endurance": 40,
+            "agility":40
+        }
+    },
+    "negative_effect":{
+        "minecraft:slowness":2,
+        "minecraft:weakness":2
+    } 
+}
