@@ -1,0 +1,16 @@
+{"override":true,
+"xp_values":{
+	"DEAL_RANGED_DAMAGE":{
+            "magic": 128
+			 },
+	"RANGED_TO_MOBS":{
+            "magic": 128
+			 },
+	"RANGED_TO_PLAYERS":{
+            "magic": 228
+			 },
+	"RANGED_TO_ANIMALS":{
+            "magic": 50
+			 }
+}
+}

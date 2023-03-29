@@ -1,0 +1,28 @@
+{"override":true,
+    "xp_values":{
+        "ANVIL_REPAIR" :{
+            "smithing": 6000
+        },
+        "CRAFT": {
+            "crafting": 6000,
+            "smithing": 1000
+        },
+        "ENCHANT": {
+            "magic": 250
+        }
+    },
+    "requirements":{
+        "WEAR": {
+            "combat": 140
+        },
+        "TOOL": {
+            "combat": 140
+        },
+        "WEAPON": {
+            "combat": 140
+        }
+    },
+    "negative_effect":{
+        "minecraft:weakness":3
+    }
+}

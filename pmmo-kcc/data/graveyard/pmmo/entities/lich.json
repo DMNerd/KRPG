@@ -1,0 +1,18 @@
+{"override":true,
+    "xp_values":{
+        "KILL": {
+            "combat": 600
+        },
+        "MELEE_TO_MOBS": {
+            "combat": 600
+        },
+        "RANGED_TO_MOBS":{
+            "archery": 600
+        }
+    },
+    "requirements": {
+        "KILL": {
+            "combat": 0
+        }
+    }
+}

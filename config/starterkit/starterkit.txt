@@ -3,7 +3,7 @@
 'chest' : '',
 'legs' : '',
 'feet' : '',
-0 : '{Count:1b,id:"eccentrictome:tome",tag:{"eccentrictome:mods":{alexsmobs:{0:{Count:1b,id:"alexsmobs:animal_dictionary"}},apotheosis:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"apotheosis:apoth_chronicle"}}},byg:{0:{Count:1b,id:"byg:biomepedia"}},feywild:{0:{Count:1b,id:"feywild:feywild_lexicon"}},parcool:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"parcool:parcool_guide"}}},simplyswords:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"simplyswords:runic_grimoire"}}}}}}',
+0 : '{Count:1b,id:"eccentrictome:tome",tag:{"eccentrictome:mods":{alexsmobs:{0:{Count:1b,id:"alexsmobs:animal_dictionary"}},apotheosis:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"apotheosis:apoth_chronicle"}}},ars_nouveau:{0:{Count:1b,id:"ars_nouveau:worn_notebook"}},byg:{0:{Count:1b,id:"minecraft:air"}},feywild:{0:{Count:1b,id:"feywild:feywild_lexicon"}},parcool:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"parcool:parcool_guide"}}},simplyswords:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"simplyswords:runic_grimoire"}}}}}}',
 1 : '',
 2 : '',
 3 : '',
