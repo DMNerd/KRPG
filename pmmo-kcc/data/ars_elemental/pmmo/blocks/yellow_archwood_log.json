@@ -1,6 +1,7 @@
-{"override":true,
-    "xp_values":{
-        "BLOCK_BREAK" : {
+{
+    "override": true,
+    "xp_values": {
+        "BLOCK_BREAK": {
             "woodcutting": 120
         },
         "BLOCK_PLACE": {
