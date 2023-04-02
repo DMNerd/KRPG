@@ -1,0 +1,29 @@
+{
+    "xp_values": {
+        "ANVIL_REPAIR": {
+            "smithing": 500
+        },
+        "CRAFT": {
+            "crafting": 600,
+            "magic": 600
+        },
+        "ENCHANT": {
+            "magic": 80
+        }
+    },
+    "requirements": {
+        "WEAR": {
+            "magic": 10,
+            "endurance": 15
+        }
+    },
+    "bonuses": {
+        "WORN": {
+            "magic": 1.1
+        }
+    },
+    "negative_effect": {
+        "minecraft:slowness": 2,
+        "minecraft:weakness": 2
+    }
+}

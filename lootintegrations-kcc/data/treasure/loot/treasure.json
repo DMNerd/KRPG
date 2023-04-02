@@ -1,0 +1,8 @@
+{
+    "Loot_table": "treasure:chests/kc_dungeon_additions",
+    "max_result_itencount": 15,
+    "integrated_loot_tables": {
+        "minecraft:chests/simple_dungeon": 1,
+        "minecraft:chests/abandoned_mineshaft": 1
+    }
+}
