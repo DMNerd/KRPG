@@ -1,0 +1,10 @@
+{"override":true,
+    "xp_values":{
+        "BLOCK_BREAK" : {
+            "woodcutting": 120
+        },
+        "BLOCK_PLACE": {
+            "building": 10
+        }
+    }
+}
