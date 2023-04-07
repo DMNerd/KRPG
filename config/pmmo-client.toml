@@ -61,14 +61,14 @@
 
 		[Client.Tooltip_Visibility.Xp_Gain_Tooltips]
 			"ANVIL_REPAIR XP Gain  tooltip enabled" = true
-			"BLOCK_BREAK XP Gain  tooltip enabled" = true
+			"BLOCK_BREAK XP Gain  tooltip enabled" = false
 			"BREAK_SPEED XP Gain  tooltip enabled" = true
-			"BLOCK_PLACE XP Gain  tooltip enabled" = true
+			"BLOCK_PLACE XP Gain  tooltip enabled" = false
 			"BREATH_CHANGE XP Gain  tooltip enabled" = true
 			"BREED XP Gain  tooltip enabled" = true
 			"BREW XP Gain  tooltip enabled" = true
 			"CONSUME XP Gain  tooltip enabled" = true
-			"CRAFT XP Gain  tooltip enabled" = true
+			"CRAFT XP Gain  tooltip enabled" = false
 			"RECEIVE_DAMAGE XP Gain  tooltip enabled" = true
 			"FROM_MOBS XP Gain  tooltip enabled" = true
 			"FROM_PLAYERS XP Gain  tooltip enabled" = true
