@@ -1,0 +1,15 @@
+{
+    "isTagFor":[ 
+        "ars_nouveau:archwood_forest",
+        "byg:forgotten_forest",
+        "byg:weeping_witch_forest"
+    ],
+    "bonus":{
+        "BIOME":{
+            "magic": 1.2
+        }
+    },
+    "positive_effect":{ 
+        "ars_nouveau:mana_regen": 1 
+    }
+}
